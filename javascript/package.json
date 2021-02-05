@@ -1,0 +1,22 @@
+{
+  "name": "@wolox/eslint-config",
+  "version": "1.0.0",
+  "description": "Base JS ESLint configuration used by Wolox",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolox/eslint-config.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wolox/eslint-config/issues"
+  },
+  "peerDependencies": {
+    "eslint": "7.x",
+    "prettier": "2.x",
+    "prettier-eslint": "12.x",
+    "eslint-plugin-prettier": "3.x",
+    "eslint-plugin-import": "2.x"
+  },
+  "homepage": "https://github.com/Wolox/eslint-config/javascript#readme"
+}
