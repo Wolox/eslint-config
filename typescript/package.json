@@ -1,6 +1,6 @@
 {
   "name": "@wolox/eslint-config-typescript",
-  "version": "3.0.0",
+  "version": "2.0.0",
   "description": "Wolox's ESLint typescript configuration",
   "main": "index.js",
   "repository": {
@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/Wolox/eslint-config/tree/main/typescript",
   "peerDependencies": {
-    "eslint": "^8.4.1",
-    "eslint-plugin-import": "^2.25.3",
+    "eslint": "^8.30.0",
+    "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-babel": "5.3.1",
-    "eslint-import-resolver-typescript": "^2.5.0",
-    "@typescript-eslint/parser": "5.3.0",
-    "@typescript-eslint/eslint-plugin": "5.3.0"
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "@typescript-eslint/parser": "5.47.0",
+    "@typescript-eslint/eslint-plugin": "5.47.0"
   }
 }
