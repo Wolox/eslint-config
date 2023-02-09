@@ -32,6 +32,7 @@ module.exports = {
     "import/no-useless-path-segments": "error",
 
     // Eslint Possible Errors - https://eslint.org/docs/rules/#possible-errors
+    "array-callback-return": "error",
     "for-direction": "error",
     "getter-return": "error",
     "no-async-promise-executor": "error",

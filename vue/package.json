@@ -23,7 +23,8 @@
   "homepage": "https://github.com/Wolox/eslint-config#readme",
   "peerDependencies": {
     "eslint-plugin-prettier": "4.2.1",
-    "eslint-config-vue": "7.5.0",
-    "eslint": "^8.30.0"
+    "eslint-plugin-vue": "9.9.0",
+    "eslint": "^8.30.0",
+    "vue-eslint-parser": "9.1.0"
   }
 }
