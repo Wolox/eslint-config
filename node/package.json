@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/Wolox/eslint-config-wolox/node#readme",
   "peerDependencies": {
-    "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-prettier": "^4.2.1",
-    "eslint": "^8.30.0",
-    "prettier-eslint": "^15.0.1",
-    "prettier": "^2.8.1"
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint": "8.34.0",
+    "prettier-eslint": "15.0.1",
+    "prettier": "2.8.4"
   }
 }
