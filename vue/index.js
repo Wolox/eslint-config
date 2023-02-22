@@ -1,7 +1,8 @@
 "use strict";
 
 module.exports = {
-  plugins: ["vue", "prettier"],
+  extends: ["plugin:vue/vue3-recommended"],
+  plugins: ["prettier"],
   parser: "vue-eslint-parser",
   rules: {
     // Eslint Stylistic Issues - https://eslint.org/docs/rules/#stylistic-issues

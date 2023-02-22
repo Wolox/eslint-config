@@ -1,6 +1,6 @@
 {
   "name": "@wolox/eslint-config-node",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Wolox's ESLint configuration for NodeJS projects",
   "main": "index.js",
   "repository": {
@@ -19,11 +19,10 @@
   },
   "homepage": "https://github.com/Wolox/eslint-config-wolox/node#readme",
   "peerDependencies": {
-    "eslint": "7.x",
-    "eslint-config-wolox": "4.x",
-    "prettier": "2.x",
-    "prettier-eslint": "12.x",
-    "eslint-plugin-prettier": "3.x",
-    "eslint-plugin-import": "2.x"
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint": "8.34.0",
+    "prettier-eslint": "15.0.1",
+    "prettier": "2.8.4"
   }
 }

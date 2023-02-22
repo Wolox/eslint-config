@@ -127,7 +127,7 @@ module.exports = {
     "react/jsx-no-target-blank": "error",
     "react/jsx-pascal-case": "error",
     "react/jsx-props-no-multi-spaces": "error",
-    "react/jsx-sort-default-props": "error",
+    "react/sort-default-props": "error",
     "react/jsx-tag-spacing": ["error", { beforeClosing: "never" }],
     "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
